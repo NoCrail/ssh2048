@@ -259,6 +259,6 @@ void generateRandomNumbers(){
                 else 
                     game[a][b]=4;
         }
-    } else 
+    }
     updateAllBoxes();
 }
