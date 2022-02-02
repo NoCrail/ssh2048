@@ -1,2 +1,16 @@
 # sshGames
- Simple games working in terminal
+ Simple games for terminal
+ Just for fun and learning ncurses
+ #### View
+ ![](ssh2048.gif)
+ #### Compilation
+```
+g++ ssh2048.c -lncurses -o ssh2048
+```
+#### Launch
+```
+./ssh2048
+```
+#### Controls
+Arrows for moving 
+CTRL+C for exit
