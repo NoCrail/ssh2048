@@ -1,5 +1,5 @@
-# sshGames
- Simple games for terminal
+# ssh2048
+ Simple game for terminal
  Just for fun and learning ncurses
  #### View
  ![](ssh2048.gif)
